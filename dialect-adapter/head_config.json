@@ -1,0 +1,13 @@
+{
+  "config": {
+    "activation_function": "tanh",
+    "head_type": "classification",
+    "layers": 2,
+    "num_labels": 5
+  },
+  "hidden_size": 768,
+  "model_class": "BertModelWithHeads",
+  "model_name": "aubmindlab/bert-base-arabert",
+  "model_type": "bert",
+  "name": "dialect-arabic"
+}
